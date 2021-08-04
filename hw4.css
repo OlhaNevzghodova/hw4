@@ -1,0 +1,54 @@
+body,
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+* {
+    box-sizing: border-box;
+}
+.kasper {
+    background-color: #121116;
+    padding: 120px 0 40px;
+}
+.logo {
+    padding-bottom: 20px;
+    margin: 0 auto;
+    max-width: 112px;
+}
+.text p {
+    color: #fff;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.text {
+    border-bottom: 2px solid white;
+    max-width: 260px;
+    margin: 0 auto;
+}
+.social_media ul {
+    display: inline;
+    list-style: none;
+    padding: 0 12px;
+}
+.social_media {
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 176px;
+}
+.copyright {
+    font-size: 15px;
+    color: #fff;
+    max-width: 270px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 75px;
+    font-family: sans-serif;
+}
